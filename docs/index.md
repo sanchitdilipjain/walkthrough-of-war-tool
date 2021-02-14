@@ -1,7 +1,7 @@
 ## WALKTHROUGH OF THE WELL-ARCHITECTED TOOL
 
 **Introduction**<br>
-- AWS Well-Architected Framework assists architects to architect secure, scalable, durable, and efficient workload and it consists of five pillars 
+- AWS Well-Architected Framework assists architects to create secure, scalable, durable, and efficient workload and it consists of five foundational pillars 
     - Operational Excellence, 
     - Security, 
     - Reliability, 
@@ -11,7 +11,7 @@
 - The AWS WA Tool, which is free at no cost and available under AWS Management Console, provides a way to regularly validate your workloads, discover potential issues, and capture your improvements.  
 
 **Step 1 - Access Well-Architected Tool**
-- In order to access AWS Well-Architected Tool, we need to simply login and navigate in the AWS console as we do for any other AWS services
+- In order to access AWS Well-Architected Tool, we need to simply log in and navigate in the AWS console as we do for any other AWS services
 
 <img src="images/image.png" class="inline"/>
   
@@ -46,7 +46,7 @@
     <img src="images/image5.png" class="inline"/>
     
 **Step 3 - Perform Well-Architected Review**
-- This is an interative and interactive step, we should interview all technical stakeholders to gather all the required data points and accordingly answer each question across different pillars, in total there are 52 questions.
+- This is an interative and interactive step, we should interview all technical stakeholders to gather the required data points and accordingly answer each question across different pillars, in total there are 52 questions.
 
     <img src="images/image6.png" class="inline"/>
 
@@ -73,7 +73,7 @@
 <img src="images/image10.png" class="inline"/>
 
 **Step 5 - Verify & Download Report**
-- Finally, we download the review report, and below are the steps to generate & download the report
+- Finally, we will download the review report, and below are the steps to generate & download the report
 
   - From the detail page for the workload, click the AWS Well-Architected Framework navigation item (others navigation items would appear for any applied Well-Architected Lens)
   
