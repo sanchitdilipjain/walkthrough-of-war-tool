@@ -53,11 +53,10 @@
 - UI screen for review is very informative as shown below
   
     <img src="images/image7.png" class="inline"/>
-    
-    - 1. Each option consist of an Info section on the right panel to understand the asks
-    - 2. Via left panel, you can traverse to any questions across different Well-Architected pillars
-    - 3. The notes section is an optional field but helpful to provide more description on your implementation with context to that particular question
-    - 4. With the Next button, you can slide to the next question and with Save & Exit button you can save and close the review
+      <br>1. Each option consist of an Info section on the right panel to understand the asks
+      <br>2. Via left panel, you can traverse to any questions across different Well-Architected pillars
+      <br>3. The notes section is an optional field but helpful to provide more description on your implementation with context to that particular question
+      <br>4. With the Next button, you can slide to the next question and with Save & Exit button you can save and close the review
 
 **Step 4 - Save a milestone**
 - Post the review process is completed, we need to define a milestone and that is done by clicking the Save milestone button
